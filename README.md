@@ -1,5 +1,5 @@
 # Attendance Tracking System
-*Collaborative Academic Project*
+*Collaborative Major Subject Project | Completed during my 3rd Year 1st sem*
 
 This is a web-based attendance tracking application developed as part of a multi-semester collaboration guided by our major subject instructor, Prof Lucman Abdulrachman. The system is built to provide teachers with an efficient, digital dashboard to track student presence, view statistics, and manage classroom data.
 
